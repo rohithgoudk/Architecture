@@ -1,0 +1,25 @@
+.notfound{
+    min-height:80vh;
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items:center;
+    text-align:center;
+  }
+  
+  .notfound h1{
+    font-size:8rem;
+    color:#c9a46c;
+  }
+  
+  .notfound h2{
+    margin-bottom:20px;
+  }
+  
+  .notfound a{
+    margin-top:20px;
+    text-decoration:none;
+    background:#111;
+    color:white;
+    padding:12px 25px;
+  }
