@@ -78,7 +78,7 @@ function Footer() {
                 Email
               </span>
 
-              <a href="mailto:stackly@architecto.com">
+              <a href="mailto:stackly@gmail.com">
                 stackly@architecto.com
               </a>
             </li>
@@ -89,7 +89,7 @@ function Footer() {
               </span>
 
               <a href="tel:+919876543210">
-                +91 98765 43210
+                +91 9876543210
               </a>
             </li>
           </ul>
