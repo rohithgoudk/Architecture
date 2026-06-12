@@ -41,7 +41,7 @@ function About() {
         <div className="about-hero-overlay" />
 
         <div className="about-hero-content">
-          <span>About Our Studio</span>
+          
           <h1>
             Crafting Spaces <br />
             With <em>Purpose</em> & <br />

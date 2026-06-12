@@ -79,7 +79,7 @@ function Footer() {
               </span>
 
               <a href="mailto:stackly@gmail.com">
-                stackly@architecto.com
+                stackly@gmail.com
               </a>
             </li>
 
